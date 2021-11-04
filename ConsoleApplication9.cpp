@@ -10,6 +10,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	int x;
+float y = 2;
 	cout << "¬вед≥ть пор€дковий номер дн€ тижн€: ";
 	cin >> x;
 	switch (x)
