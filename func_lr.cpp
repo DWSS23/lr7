@@ -26,3 +26,5 @@ double func3(double a, double b)
 	j = modf(k, &i);
 	return j;
 }
+
+int func4(int k)
